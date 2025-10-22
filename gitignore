@@ -1,4 +1,7 @@
 .DS_Store
-*/.ipynb_checkpoints/*.ipynb
-*/.virtual_documents/*.ipynb
+.ipynb_checkpoints
+.virtual_documents
 cmip6env/
+
+
+
