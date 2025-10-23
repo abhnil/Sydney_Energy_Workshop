@@ -10,4 +10,3 @@ jupyterlab
 xarray[complete]
 s3fs
 dask[complete]
-pydantic<2.12
