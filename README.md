@@ -7,7 +7,6 @@ The notebooks cover:
 - accessing the cmip6 dataset from different data sources.
 - accessing regional climate data (rcm) from Australia from NCI.
 - plotting key variables from the cmip6 and rcm dataset.
-- producing key synergy metrics.
 
 # Testing the code
 You can run the code in these notebooks on your own machine without downloading any of the requirements using binder. Note - the code will be much slower on binder than on your own machine. 
